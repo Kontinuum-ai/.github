@@ -45,7 +45,7 @@ sounds like a record.
 |---|---|---|
 | **LISTEN** | anyone with ears | pick a style, press play. Steer it in plain words: *"darker"*, *"I'm working, keep it subtle"*, *"take me somewhere deeper"* |
 | **DJ** | someone who wants to *perform* | a beat-locked performance row: filter sweeps, EQ kills, loop rolls, tension builds, deck A/B crossfades. Quantization does the timing, so it always sounds tight |
-| **PRODUCE** | producers | a full agentic production studio. Every pattern, instrument, send and automation lane editable, including the live code stream itself. Tap a line, change it, hear it next bar |
+| **PRODUCE** | producers | a full agentic production studio. Every pattern, instrument, send and automation lane editable, including the live code stream itself. Tap a line, change it, hear it next bar — and anything you touch by hand is yours: the composer stops moving it until you release it |
 
 There is no "musician version" and no "listener version". One session is
 running; how deep you reach into it is up to you, and you can always go a level
@@ -80,6 +80,8 @@ and a native Mac app.
 **Deterministic** is the load-bearing word. The same session, the same seed and
 the same edits render bit-identically every time, on any machine. That is what
 makes a performance reproducible, a bug reportable, and a render trustworthy.
+Exported masters carry a fingerprint of the session they came from, so a file
+can be proven to be a given piece's render and not merely labelled as one.
 
 ---
 
